@@ -31,6 +31,6 @@ I also have an interest in leadership, volunteering, and personal development. I
 
 ## 📫 Connect With Me
 
-- LinkedIn:
-- x: 
+- LinkedIn: https://www.linkedin.com/in/ridwan-aminu-108425365?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- x: https://x.com/De_Coded_04
 
