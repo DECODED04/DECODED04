@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Ridwan 👋🏽
 
-<!--
-**DECODED04/DECODED04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Statistics student and Data Analyst with an interest in using data to answer meaningful business questions and support better decision-making.
 
-Here are some ideas to get you started:
+I enjoy analyzing data, identifying patterns, and turning findings into clear insights and visualizations. I'm currently building my analytical skills through practical projects while developing stronger skills in business thinking, data storytelling, and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+
+- **Excel** — Data Cleaning, Pivot Tables, Pivot Charts & Dashboards
+- **SQL** — Data Querying & Analysis
+- **Power BI** — Data Modeling, DAX & Interactive Dashboards
+- **Statistics** — Statistical Analysis & Interpretation
+
+## 📊 Featured Projects
+
+- **Global Sales Performance Analysis** — Analysis of sales performance across customers, products, regions, transactions, and delivery operations.
+- **Healthcare Revenue & Utilization Analysis** — Analysis of healthcare revenue, encounters, insurance payers, and utilization patterns.
+- **Retail Sales & Customer Performance Analysis** — Power BI analysis of sales, profitability, products, customer demographics, and geographic performance.
+- **Sales Performance Analysis** — Power BI analysis of sales opportunities, products, customer accounts, and sales performance.
+
+## 🌱 Currently Working On
+
+- Developing stronger analytical and critical-thinking skills
+- Improving data visualization and storytelling
+- Building more comprehensive, independent data analysis projects
+
+## 👨🏽‍💼 Beyond Data
+
+I also have an interest in leadership, volunteering, and personal development. I currently serve as the President of my departmental student association, where I'm developing practical experience in leadership, organization, and teamwork.
+
+## 📫 Connect With Me
+
+- LinkedIn:
+- x: 
+
