@@ -1,5 +1,5 @@
 <img src="ridwan-2.jpg" width="150" align="right" alt="Ridwan Aminu">
-# Hi there, I'm Ridwan 👋🏽
+Hi there, I'm Ridwan 👋🏽
 
 I'm a Statistics student and Data Analyst with an interest in using data to answer meaningful business questions and support better decision-making.
 
