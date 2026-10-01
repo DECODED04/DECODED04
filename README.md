@@ -14,11 +14,14 @@ I enjoy analyzing data, identifying patterns, and turning findings into clear in
 
 ## 📊 Featured Projects
 
-- **Global Sales Performance Analysis** — Analysis of sales performance across customers, products, regions, transactions, and delivery operations.
-- **Healthcare Revenue & Utilization Analysis** — Analysis of healthcare revenue, encounters, insurance payers, and utilization patterns.
-- **Retail Sales & Customer Performance Analysis** — Power BI analysis of sales, profitability, products, customer demographics, and geographic performance.
-- **Sales Performance Analysis** — Power BI analysis of sales opportunities, products, customer accounts, and sales performance.
+- [**Global Sales Performance Analysis**](https://github.com/DECODED04/global-sales-performance-analysis) — Analysis of sales performance across customers, products, regions, transactions, and delivery operations.
 
+- [**Healthcare Revenue & Utilization Analysis**](https://github.com/DECODED04/HEALTHCARE-REVENUE-UTILIZATION-) — Analysis of healthcare revenue, encounters, insurance payers, mortality, and utilization patterns.
+
+- [**Retail Sales & Customer Performance Analysis**](https://github.com/DECODED04/retail-sales-customer-analysis) — Power BI analysis of sales, profitability, products, customer demographics, and geographic performance.
+
+- [**Sales Performance Analysis**](https://github.com/DECODED04/sales-performance2-powerbi-analysis) — Power BI analysis of sales opportunities, products, company accounts, and sales performance.
+  
 ## 🌱 Currently Working On
 
 - Developing stronger analytical and critical-thinking skills
@@ -32,5 +35,6 @@ I also have an interest in leadership, volunteering, and personal development. I
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/ridwan-aminu-108425365?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  
 - x: https://x.com/De_Coded_04
 
